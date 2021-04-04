@@ -8,6 +8,8 @@ The application is used to keep a fictitious budget. It allows you to set a base
 
 Here you can find a display of the project:
 
+https://rjs-budget-app.vercel.app/
+
 ## Contact
 
 LinkedIn https://cutt.ly/EkbLH8s
